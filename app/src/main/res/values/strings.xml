@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RegistroPc</string>
+    <string name="str_txt_no_form">Sin registros.</string>
+    <string name="str_txt_loading">Cargando registros...</string>
+    <string name="str_title_alert_error">Registros pc</string>
+    <string name="str_msj_alert_error_formularios">Error cargando registros</string>
+    <string name="ok">Ok</string>
+</resources>
